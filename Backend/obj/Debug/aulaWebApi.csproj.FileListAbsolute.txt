@@ -1,0 +1,214 @@
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.csprojResolveAssemblyReference.cache
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\ApplicationInsights.config
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\csc.exe
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\vbc.exe
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\VBCSCompiler.exe
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\aulaWebApi.dll.config
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\aulaWebApi.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\aulaWebApi.pdb
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Antlr3.Runtime.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\EntityFramework.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\EntityFramework.SqlServer.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.AI.Web.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.ApplicationInsights.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Newtonsoft.Json.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Net.Http.Formatting.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Helpers.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Http.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Http.WebHost.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Mvc.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Optimization.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Razor.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Razor.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\WebGrease.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\EntityFramework.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\EntityFramework.SqlServer.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.AI.Web.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.ApplicationInsights.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Newtonsoft.Json.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Net.Http.Formatting.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Helpers.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Http.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Http.WebHost.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Mvc.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Optimization.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Razor.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Razor.xml
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\Antlr3.Runtime.pdb
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.pdb
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.Initial.resources
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.csproj.GenerateResource.Cache
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.Alt1.resources
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Cors.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Http.Cors.dll
+c:\users\denes\documents\visual studio 2015\Projects\aulaWebApi\aulaWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.Initial.resources
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.Alt1.resources
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.csproj.GenerateResource.Cache
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.pdb
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\ApplicationInsights.config
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\csc.exe
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\vbc.exe
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\aulaWebApi.dll.config
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\aulaWebApi.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\aulaWebApi.pdb
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Antlr3.Runtime.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\EntityFramework.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\jose-jwt.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Newtonsoft.Json.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Cors.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Helpers.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Http.Cors.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Http.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Mvc.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Optimization.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Razor.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\WebGrease.dll
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\EntityFramework.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Newtonsoft.Json.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Helpers.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Http.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Mvc.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Optimization.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.Razor.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\denes\Desktop\aula0817WebApi\aulaWebApi\aulaWebApi\bin\Antlr3.Runtime.pdb
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\ApplicationInsights.config
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\csc.exe
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\vbc.exe
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\VBCSCompiler.exe
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\aulaWebApi.dll.config
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\aulaWebApi.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\aulaWebApi.pdb
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Antlr3.Runtime.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\EntityFramework.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\EntityFramework.SqlServer.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\jose-jwt.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.AI.Web.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Newtonsoft.Json.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Net.Http.Formatting.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Cors.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Helpers.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Http.Cors.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Http.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Http.WebHost.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Mvc.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Optimization.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Razor.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Razor.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\WebGrease.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\EntityFramework.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\EntityFramework.SqlServer.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.AI.Web.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Newtonsoft.Json.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Http.Cors.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Net.Http.Formatting.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Helpers.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Http.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Http.WebHost.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Mvc.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Optimization.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.Razor.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\System.Web.WebPages.Razor.xml
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\bin\Antlr3.Runtime.pdb
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.Initial.resources
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.Alt1.resources
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.csproj.GenerateResource.Cache
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.dll
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.pdb
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.Alt2.resources
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.Alt3.resources
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.alt4.resources
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.Alt5.resources
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.Alt6.resources
+C:\xampp\htdocs\aulaWebApi\aulaWebApi\obj\Debug\aulaWebApi.Migrations.Alt7.resources

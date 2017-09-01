@@ -1,0 +1,106 @@
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <!-- Angular Material style sheet -->
+    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.css">
+    <link rel="stylesheet" href="Site.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="bower_components/angular-busy/dist/angular-busy.min.css">
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <link rel="stylesheet" href="bower_components/angular-material-data-table/dist/md-data-table.css">
+</head>
+
+<body ng-app="BlankApp" ng-controller="AppCtrl" cg-busy="thePromise" ng-cloak>
+    <!--
+  Your HTML content here
+-->
+    <md-content layout-padding>
+        <md-toolbar class="md-hue-2">
+            <div class="md-toolbar-tools">
+                <h2>
+                <span>ACME Commerce - Clientes</span>
+              </h2>
+            </div>
+        </md-toolbar>
+
+        <md-card>
+            <md-table-container>
+                <table md-table md-progress="promise">
+                    <thead md-head>
+                        <tr md-row>
+                            <th md-column style="width: 40%"><span>Nome</span></th>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody md-body>
+                        <tr md-row md-select="item" ng-repeat="item in clientes">
+                            <td md-cell>{{item.Nome}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </md-table-container>
+        </md-card>
+    </md-content>
+
+    <!-- Angular Material requires Angular.js Libraries -->
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-animate.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-aria.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-messages.min.js"></script>
+
+    <!-- Angular Material Library -->
+    <script src="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.js"></script>
+
+    <script type="text/javascript" src="https://cdn.rawgit.com/auth0/angular-jwt/master/dist/angular-jwt.js"></script>
+
+    <script src="bower_components/angular-busy/dist/angular-busy.min.js"></script>
+
+    <script src="bower_components/angular-material-data-table/dist/md-data-table.js"></script>
+
+
+    <!-- Your application bootstrap  -->
+    <script src="code.js"></script>
+
+    <script type="text/ng-template" id="dialogLogin.tmpl.html">
+            <md-dialog ng-cloak>
+                <form>
+                    <md-toolbar>
+                        <div class="md-toolbar-tools">
+                            <span flex></span>
+                            <h2>Por favor efetue login</h2>
+                            <span flex></span>
+                        </div>
+                    </md-toolbar>
+
+                    <md-dialog-content>
+                        <div class="md-dialog-content">
+                            <md-input-container class="md-block">
+                                <label>Usuário</label>
+                                <input ng-model="username">
+                            </md-input-container>
+                        </div>
+                        <div class="md-dialog-content">
+                            <md-input-container class="md-block">
+                                <label>Senha</label>
+                                <input type="password" ng-model="password">
+                            </md-input-container>
+                        </div>
+                    </md-dialog-content>
+
+                    <md-dialog-actions layout="row">
+                        <span flex></span>
+                        <md-button ng-click="login()" style="margin-right:20px;" class="md-raised md-primary ">
+                            Login
+                        </md-button>
+                    </md-dialog-actions>
+                </form>
+            </md-dialog>
+        </script>
+
+</body>
+
+</html>
